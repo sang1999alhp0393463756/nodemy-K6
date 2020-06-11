@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 a sua thong tina
+=======
+a sua thong tin
+a
+a
+a
+a
+a
+>>>>>>> facf89ad6af4a13593241f462a693fcfbf089144
